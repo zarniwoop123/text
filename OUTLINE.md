@@ -91,7 +91,6 @@ PART 8 (OUTRO --> Bringing values together):
 
 
 ***[COMMENTS]***
-COMMENTS
 
 Ok, there's a lot of good stuff in there, but here are some ways I think you could improve the essay.
 
