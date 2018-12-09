@@ -1,3 +1,5 @@
+***[OUTLINE]***
+
 INTRO:
 * 1990 --> NGOs, govts, did a lot with CITES, but it's far from perfect.
 
@@ -85,3 +87,51 @@ PART 7 (Community initiatives):
 * Examples of elephant tourism, money-making elephant sanctuaries in Africa.
 
 PART 8 (OUTRO --> Bringing values together):
+
+
+
+***[COMMENTS]***
+COMMENTS
+
+Ok, there's a lot of good stuff in there, but here are some ways I think you could improve the essay.
+
+INTRO
+(1) Your intro leaves provides an outline of your essay, but the outline leaves important parts of your essay out. You mention Yu-Shan Wu, but not Ferugson, Steppputat, Larsen or Feree.
+(2) Your outline tells the reader that the essay will be divided into 2 parts, but then the outline goes on to describe 3 parts and has a segue into a 4th. The rest of the essay does not follow this structure.
+
+PART 1:
+
+(1) History of the ivory industry is interesting, but there's a lot of info that doesn't seem important to making your case about values. 
+
+PART 2:
+
+(1) Good. But you could use more details about how the local groups valued elephants differently from the global market. Analysis is good, but I think you need more facts to work with.
+(2) You make an accusation of colonialism, but it isn't defended.
+
+PART 3:
+
+(1) I think this part would work a lot better if PART 2 had more detailed analysis of the relevant values. PART 3 does a good job of showing the consequences of differences in values, but without a strong background on what those differences are, the consequences aren't as persuasive.
+
+PART 4:
+(1) This is a very short section, and it provides little anthropological information about Chinese values. There's not much demonstration of understanding of Chinese culture or history. Introducing the topic of China, and then leaving it undeveloped compared to Africa, makes the essay a little lop-sided. I would either find some more info on China or consider cutting out this section.
+
+PART 5:
+(1) This is interesting stuff, but I think a lot of these things are just logistical problems and don't really imply and important differences in values. 
+(2) You bring up colonialism again. This is a serious accusation. I think you should take the time to make it carefully, or consider not making it. It's related to your point about values, but you need to make that connection explicit and develop it if you want to talk about it. The stuff about tourism creating a "pristine experience" rather than helping locals is good, and helps you make the case wrt colonialism. But your main claim isn't one about colonialism, it's one about differences in values, so without some writing establishing a strong connection between value differences and colonialism, this good point of tourism vs. local welfare doesn't have as much impact as it could. 
+
+PART 6:
+(1) This is mostly more impacts of value differences, but does not support the central claim of value differences itself. As with PART 3, this would be stronger if there were more evidence of important value differences before it. 
+
+PART 7:
+(1) Tourism is a good alternative? What about neo-colonialism? How does this solve the logistical problems in PART 5. How is tourism going to be less disruptive to local cultures/traditions. After all, the role that the locals had for elephants did not involve tourism. What about hunting together? What about the chief keeping ivory?
+(2) Most importantly, how does this pay more consideration to the unique values of the locals that you're saying have to be taken into account for us to come up with a good solution?
+
+
+Big picture issues:
+
+(1) You don't have a thesis.
+(2) You don't have enough evidence that differences in values are present and important.
+(3) The essay refers to itself too much. 
+(4) There are structural problems. There are a lot of parts, and many of them cover the same subject matter. The structure doesn't support an argument.
+(5) The conclusion is abrupt and isn't justified very well by the material that comes before it. 
+
