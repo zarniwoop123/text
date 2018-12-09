@@ -95,7 +95,7 @@ PART 8 (OUTRO --> Bringing values together):
 Ok, there's a lot of good stuff in there, but here are some ways I think you could improve the essay.
 
 INTRO
-(1) Your intro leaves provides an outline of your essay, but the outline leaves important parts of your essay out. You mention Yu-Shan Wu, but not Ferugson, Steppputat, Larsen or Feree.
+(1) Your intro provides an outline of your essay, but the outline leaves important parts of your essay out. You mention Yu-Shan Wu, but not Ferugson, Steppputat, Larsen or Feree.
 (2) Your outline tells the reader that the essay will be divided into 2 parts, but then the outline goes on to describe 3 parts and has a segue into a 4th. The rest of the essay does not follow this structure.
 
 PART 1:
