@@ -112,10 +112,10 @@ PART 3:
 (1) I think this part would work a lot better if PART 2 had more detailed analysis of the relevant values. PART 3 does a good job of showing the consequences of differences in values, but without a strong background on what those differences are, the consequences aren't as persuasive.
 
 PART 4:
-(1) This is a very short section, and it provides little anthropological information about Chinese values. There's not much demonstration of understanding of Chinese culture or history. Introducing the topic of China, and then leaving it undeveloped compared to Africa, makes the essay a little lop-sided. I would either find some more info on China or consider cutting out this section.
+(1) This is a very short section, and it provides little anthropological information about Chinese values. There's not much demonstration of understanding of Chinese culture or history. Introducing the topic of China, and then leaving it undeveloped compared to Africa, makes the essay a little lopsided. I would either find some more info on China or consider cutting out this section.
 
 PART 5:
-(1) This is interesting stuff, but I think a lot of these things are just logistical problems and don't really imply and important differences in values. 
+(1) This is interesting stuff, but I think a lot of these things are just logistical problems and don't really imply important differences in values. 
 (2) You bring up colonialism again. This is a serious accusation. I think you should take the time to make it carefully, or consider not making it. It's related to your point about values, but you need to make that connection explicit and develop it if you want to talk about it. The stuff about tourism creating a "pristine experience" rather than helping locals is good, and helps you make the case wrt colonialism. But your main claim isn't one about colonialism, it's one about differences in values, so without some writing establishing a strong connection between value differences and colonialism, this good point of tourism vs. local welfare doesn't have as much impact as it could. 
 
 PART 6:
